@@ -17,7 +17,9 @@ Model/DealModel.cs - Deal DB model class
 Technologies Used
 -----------------
 .Net Framework 4.5
+
 C#
+
 Nnuit Testing
 
 Design Pattern - Singleton & Builder Pattern
